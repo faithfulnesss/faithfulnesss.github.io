@@ -1,0 +1,8 @@
+:root {
+    --bg-color: #221b44;
+    --main-color: #009eaf;
+    --caret-color: #009eaf;
+    --sub-color: #b82356;
+    --sub-alt-color: #191919;
+    --icon-color: invert(44%) sepia(22%) saturate(6008%) hue-rotate(156deg) brightness(93%) contrast(101%);
+  }  
